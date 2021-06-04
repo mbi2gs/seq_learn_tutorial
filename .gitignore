@@ -1,5 +1,5 @@
 build-image
 .ipynb_checkpoints/
-notebooks/*.gff
+notebooks/*.gbk
 notebooks/*.gz
 
