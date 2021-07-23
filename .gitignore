@@ -2,4 +2,4 @@ build-image
 .ipynb_checkpoints/
 notebooks/*.gbk
 notebooks/*.gz
-
+notebooks/*.tsv
