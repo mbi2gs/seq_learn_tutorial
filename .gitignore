@@ -3,3 +3,4 @@ build-image
 notebooks/*.gbk
 notebooks/*.gz
 notebooks/*.tsv
+notebooks/*.pickle
